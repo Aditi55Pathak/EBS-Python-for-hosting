@@ -12,7 +12,8 @@ This project demonstrates how to automate the deployment of a Python application
 
 ### 1. Create a GitHub Repository
 First, create a new repository on GitHub for the project you want to host. Push your application code to this repository.
-"C:\Users\aditi\OneDrive\Pictures\Screenshots\Screenshot 2024-04-01 222529.png"
+![image](https://github.com/Aditi55Pathak/EBS-Python-for-hosting/assets/80877301/da5b62ef-3264-4e3c-b0ef-f796aeaf072b)
+
 ### 2. Set Up Code and Database
 Ensure your Python application is set up with a MySQL database. You should have a working configuration that can connect to the database and perform the necessary operations.
 
