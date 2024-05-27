@@ -1,4 +1,4 @@
-![image](https://github.com/Aditi55Pathak/EBS-Python-for-hosting/assets/80877301/d6feca75-32b4-4e5f-ad84-baebd6ddf7ac)# CI/CD Hosting on Elastic Beanstalk
+# CI/CD Hosting on Elastic Beanstalk
 
 ## Project Overview
 This project demonstrates how to automate the deployment of a Python application with a MySQL database to AWS Elastic Beanstalk using AWS CodePipeline. The goal is to set up a continuous integration and continuous deployment (CI/CD) pipeline that automatically deploys your code whenever changes are pushed to your GitHub repository.
