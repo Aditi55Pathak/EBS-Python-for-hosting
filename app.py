@@ -5,7 +5,7 @@ import pymysql
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = 'uploads/'
-app.config['SECRET_KEY'] = 'your_secret_key_here'
+app.config['SECRET_KEY'] = 'your_secret_key'
 
 # Create the uploads directory if it doesn't exist
 os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
